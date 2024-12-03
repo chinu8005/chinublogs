@@ -13,7 +13,6 @@ tags:
 Welcome to my very first blog post! In this post, I'll share a bit about who I am, why I started this blog, and what kind of content you can expect here.  
 
 ---
-
 ## Who Am I?  
 
 Hi there! My name is **Chinmay Patil**, and I am a **Cybersecurity Enthusiast and Computer Engineer** with a deep interest in securing digital environments. I've been passionate about **cybersecurity, linux, and technology**. Through this blog, I aim to share my journey, knowledge, and experiences in this exciting field.  
@@ -54,14 +53,10 @@ You can contact me at:
 **[Github](https://github.com/chinu8005)**
 **[Instagram](https://instagram.com/_chinu_8005_)**
 
-
-
 ---
-
 #### About This Blog  
 
 This blog is powered by **Hugo** and hosted on **Hostinger**.  
 
 ---
-
 **Thanks for reading!** See you in the next post! ✨  
