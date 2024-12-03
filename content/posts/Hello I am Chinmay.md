@@ -19,3 +19,5 @@ Removed the ! sign i guess !!!
 !![Image Description](/images/Pasted%20image%2020241202235317.png)
 
 !![Image Description](/images/Pasted%20image%2020241203213615.png)
+
+PS1
