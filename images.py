@@ -4,7 +4,7 @@ import shutil
 
 # Paths (using raw strings to handle Windows backslashes correctly)
 posts_dir = r"C:\Users\chinm\Documents\chinublog\content\posts"
-attachments_dir = r"C:\Users\chinm\Documents\Windows Valut"
+attachments_dir = r"C:\Users\chinm\Documents\Windows Vault"
 static_images_dir = r"C:\Users\chinm\Documents\chinublog\static\images" 
 
 # Step 1: Process each markdown file in the posts directory
