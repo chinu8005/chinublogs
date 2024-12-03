@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/blog/</loc>
-    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/chinmay/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/cybersecurity/</loc>
+    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/firstblog/</loc>
+    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/hello-i-am-chinmay/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/</loc>
@@ -20,10 +23,7 @@
     <loc>/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/second-blog/</loc>
-    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/hello-i-am-chinmay/</loc>
+    <loc>/tags/whoami/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
