@@ -1,7 +1,7 @@
 ---
 title: Hola Amigos
 date: 2024-12-03
-draft: false
+draft: true
 tags:
   - chinmay
   - cybersecurity
@@ -51,8 +51,11 @@ Stay updated by following my blog or connecting with me on LinkedIn. Let me know
 You can contact me at: 
 
 **[Email](mailto:chinmayspatil@outlook.com)**  
+
 **[LinkedIn](https://linkedin.com/in/chinmay-patil-8005/)**
+
 **[Github](https://github.com/chinu8005)**
+
 **[Instagram](https://instagram.com/_chinu_8005_)**
 
 ---
