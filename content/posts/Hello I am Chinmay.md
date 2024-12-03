@@ -7,7 +7,7 @@ tags:
   - chinmay
 ---
 
-Lorem Ispum Gibberish
+Hello, My name is Chinmay and this is my website for [portfolio](https://chinmaypatil.net) !!
 
 
 !![Image Description](/images/Pasted%20image%2020241202235317.png)
