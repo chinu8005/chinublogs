@@ -8,6 +8,27 @@
     <language>en</language>
     <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>This is my second blog</title>
+      <link>/posts/second-blog/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/second-blog/</guid>
+      <description>&lt;p&gt;Okay then, I was able to done this HUGO project which converts markdown file into HTML and have variety of themes available to choose and make it happen as blogs or anything you want on internet.
+With Hostinger it was more easy and now with a PS1 script it became more easy to do !!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/chinu8005/chinublogs&#34;&gt;Github&lt;/a&gt;
+&lt;a href=&#34;https://instagram.com/_chinu_8005_&#34;&gt;Instagram&lt;/a&gt;
+&lt;a href=&#34;https://chinmaypatil.net&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;![[20241108_210710.jpg]]&lt;/p&gt;</description>
+      <content>&lt;p&gt;Okay then, I was able to done this HUGO project which converts markdown file into HTML and have variety of themes available to choose and make it happen as blogs or anything you want on internet.
+With Hostinger it was more easy and now with a PS1 script it became more easy to do !!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/chinu8005/chinublogs&#34;&gt;Github&lt;/a&gt;
+&lt;a href=&#34;https://instagram.com/_chinu_8005_&#34;&gt;Instagram&lt;/a&gt;
+&lt;a href=&#34;https://chinmaypatil.net&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;![[20241108_210710.jpg]]&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
       <title>Welcome</title>
       <link>/posts/hello-i-am-chinmay/</link>
       <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
@@ -18,13 +39,15 @@
 &lt;p&gt;Removed the ! sign i guess !!!&lt;/p&gt;
 &lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Security%20is%20not%20a%20product%20(2).png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020241202235317.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020241203213615.png&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020241203213615.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;PS1&lt;/p&gt;</description>
       <content>&lt;p&gt;Hello, My name is Chinmay and this is my website for &lt;a href=&#34;https://chinmaypatil.net&#34;&gt;portfolio&lt;/a&gt; !!&lt;/p&gt;
 &lt;p&gt;If this is on internet of hostinger then I will be amazaed of it and starting writing blogs !!! Yeppiee 🧡🧡&lt;/p&gt;
 &lt;p&gt;Removed the ! sign i guess !!!&lt;/p&gt;
 &lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Security%20is%20not%20a%20product%20(2).png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020241202235317.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020241203213615.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;PS1&lt;/p&gt;
 </content>
     </item>
     
