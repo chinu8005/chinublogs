@@ -1,12 +1,13 @@
 ---
 title: Hola Amigos
 date: 2024-12-03
-draft: true
+draft: false
 tags:
   - chinmay
   - cybersecurity
   - firstblog
   - whoami
+---
 ---
 # My First Blog Post  
 
@@ -17,6 +18,7 @@ Welcome to my very first blog post! In this post, I'll share a bit about who I a
 
 Hi there! My name is **Chinmay Patil**, and I am a **Cybersecurity Enthusiast and Computer Engineer** with a deep interest in securing digital environments. I've been passionate about **cybersecurity, linux, and technology**. Through this blog, I aim to share my journey, knowledge, and experiences in this exciting field.  
 
+---
 ## Why I Started This Blog  
 
 I’ve always been fascinated by the idea of sharing ideas and helping others, especially in a domain as dynamic as cybersecurity. This blog serves as a platform for me to:  
