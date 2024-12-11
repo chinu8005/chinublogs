@@ -8,7 +8,6 @@ tags:
   - firstblog
   - whoami
 ---
----
 # My First Blog Post  
 
 Welcome to my very first blog post! In this post, I'll share a bit about who I am, why I started this blog, and what kind of content you can expect here.  
