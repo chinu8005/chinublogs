@@ -1,6 +1,5 @@
 ---
-Title: LinuxDistros
-Date: 2025-01-20
+Title: Linux Distros
 tags:
   - Linux
   - Kali

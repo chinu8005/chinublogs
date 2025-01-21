@@ -1,13 +1,11 @@
 ---
 Title: First Blog
-Date: 21-01-2025
 tags:
   - firstblog
   - blog
   - obsidian
   - hugo
   - hello
-categories: Simple
 ---
 ---
 # Hello, World! 🌍
