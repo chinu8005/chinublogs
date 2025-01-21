@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
-    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+    <loc>/tags/blog/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/centos/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/hello/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/kali/</loc>
@@ -29,24 +32,31 @@
     <loc>/tags/mint/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/new/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/obsidian/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/random-test/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/simple/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/ubuntu/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/blog/</loc>
-  </url><url>
     <loc>/posts/first-blog/</loc>
   </url><url>
     <loc>/tags/firstblog/</loc>
   </url><url>
-    <loc>/tags/hello/</loc>
-  </url><url>
     <loc>/tags/hugo/</loc>
-  </url><url>
-    <loc>/tags/obsidian/</loc>
-  </url><url>
-    <loc>/categories/simple/</loc>
   </url>
 </urlset>
