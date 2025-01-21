@@ -1,5 +1,5 @@
 ---
-Title: Random Test
+Title: RandomTest
 Date: 2025-01-21
 tags:
   - blog

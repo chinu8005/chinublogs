@@ -1,5 +1,5 @@
 ---
-Title: Linux Distros
+Title: LinuxDistros
 Date: 2025-01-21
 tags:
   - Linux
