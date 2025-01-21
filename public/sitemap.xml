@@ -2,67 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/blog/</loc>
-    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
+    <loc>/tags/centos/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/hello/</loc>
+    <loc>/tags/kali/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/new/</loc>
+    <loc>/tags/linux/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/obsidian/</loc>
+    <loc>/posts/linuxdistros/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/mint/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/randomtest/</loc>
-    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/random-test-2/</loc>
-    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/simple/</loc>
-    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/centos/</loc>
-    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/kali/</loc>
-    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/linux/</loc>
-    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/linux/</loc>
-    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/linuxdistros/</loc>
-    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/mint/</loc>
-    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/random-test-3/</loc>
-    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/ubuntu/</loc>
-    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/blog/</loc>
+  </url><url>
+    <loc>/categories/</loc>
   </url><url>
     <loc>/posts/first-blog/</loc>
   </url><url>
     <loc>/tags/firstblog/</loc>
   </url><url>
+    <loc>/tags/hello/</loc>
+  </url><url>
     <loc>/tags/hugo/</loc>
+  </url><url>
+    <loc>/tags/obsidian/</loc>
+  </url><url>
+    <loc>/categories/simple/</loc>
   </url>
 </urlset>
