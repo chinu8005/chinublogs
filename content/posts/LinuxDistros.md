@@ -9,7 +9,7 @@ tags:
   - CentOS
 categories: Linux
 ---
-
+---
 # Exploring Linux Distributions
 
 Linux distributions, or **distros**, are various versions of the Linux operating system, each tailored for different use cases and user preferences. Some are designed for beginners, others for advanced users, and some focus on specific tasks like security, privacy, or development.
