@@ -6,6 +6,8 @@
   </url><url>
     <loc>/categories/</loc>
   </url><url>
+    <loc>/tags/centos/</loc>
+  </url><url>
     <loc>/</loc>
   </url><url>
     <loc>/posts/first-blog/</loc>
@@ -16,6 +18,16 @@
   </url><url>
     <loc>/tags/hugo/</loc>
   </url><url>
+    <loc>/tags/kali/</loc>
+  </url><url>
+    <loc>/tags/linux/</loc>
+  </url><url>
+    <loc>/categories/linux/</loc>
+  </url><url>
+    <loc>/posts/linux-distros/</loc>
+  </url><url>
+    <loc>/tags/mint/</loc>
+  </url><url>
     <loc>/tags/obsidian/</loc>
   </url><url>
     <loc>/posts/</loc>
@@ -23,5 +35,7 @@
     <loc>/categories/simple/</loc>
   </url><url>
     <loc>/tags/</loc>
+  </url><url>
+    <loc>/tags/ubuntu/</loc>
   </url>
 </urlset>
