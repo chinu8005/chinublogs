@@ -1,8 +1,9 @@
 ---
 Title: RandomTest 2
 Date: 2025-01-21
-categories: Simple
+tags:
+  - blog
 ---
 Lorem Isp0um
 
-;knfipon
+		;knfipon
