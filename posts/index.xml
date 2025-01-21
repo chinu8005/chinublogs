@@ -15,29 +15,76 @@
       <description>&lt;hr&gt;
 &lt;h1 id=&#34;hello-world-&#34;&gt;Hello, World! 🌍&lt;/h1&gt;
 &lt;p&gt;I&amp;rsquo;m trying something new today by starting my very first blog! This is just a test post, but I&amp;rsquo;m excited to see where it goes. Stay tuned as I explore and share my thoughts on various topics. Thanks for reading!&lt;/p&gt;
-&lt;p&gt;Image 1 !&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250121122449.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Image 1 !&lt;img src=&#34;/images/Pasted%20image%2020250121122449.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;lets-connect&#34;&gt;Let&amp;rsquo;s Connect:&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/chinu8005&#34;&gt;&lt;img alt=&#34;GitHub&#34; src=&#34;https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&amp;logo=github&amp;logoColor=white&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/pchinmay/&#34;&gt;&lt;img alt=&#34;LinkedIn&#34; src=&#34;https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;mailto:hello@chinmaypatil.net&#34;&gt;&lt;img alt=&#34;Email&#34; src=&#34;https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/chinu8005&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&amp;amp;logo=github&amp;amp;logoColor=white&#34; alt=&#34;GitHub&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/pchinmay/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&amp;amp;logo=linkedin&amp;amp;logoColor=white&#34; alt=&#34;LinkedIn&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:hello@chinmaypatil.net&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&amp;amp;logo=gmail&amp;amp;logoColor=white&#34; alt=&#34;Email&#34;&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;p&gt;Thanks for visiting my blog! More content coming soon.&lt;/p&gt;</description>
       <content>&lt;hr&gt;
 &lt;h1 id=&#34;hello-world-&#34;&gt;Hello, World! 🌍&lt;/h1&gt;
 &lt;p&gt;I&amp;rsquo;m trying something new today by starting my very first blog! This is just a test post, but I&amp;rsquo;m excited to see where it goes. Stay tuned as I explore and share my thoughts on various topics. Thanks for reading!&lt;/p&gt;
-&lt;p&gt;Image 1 !&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250121122449.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Image 1 !&lt;img src=&#34;/images/Pasted%20image%2020250121122449.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;lets-connect&#34;&gt;Let&amp;rsquo;s Connect:&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/chinu8005&#34;&gt;&lt;img alt=&#34;GitHub&#34; src=&#34;https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&amp;logo=github&amp;logoColor=white&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/pchinmay/&#34;&gt;&lt;img alt=&#34;LinkedIn&#34; src=&#34;https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;mailto:hello@chinmaypatil.net&#34;&gt;&lt;img alt=&#34;Email&#34; src=&#34;https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/chinu8005&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&amp;amp;logo=github&amp;amp;logoColor=white&#34; alt=&#34;GitHub&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/pchinmay/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&amp;amp;logo=linkedin&amp;amp;logoColor=white&#34; alt=&#34;LinkedIn&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:hello@chinmaypatil.net&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&amp;amp;logo=gmail&amp;amp;logoColor=white&#34; alt=&#34;Email&#34;&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;p&gt;Thanks for visiting my blog! More content coming soon.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Linux Distros</title>
+      <link>/posts/linux-distros/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/linux-distros/</guid>
+      <description>&lt;hr&gt;
+&lt;h1 id=&#34;exploring-linux-distributions&#34;&gt;Exploring Linux Distributions&lt;/h1&gt;
+&lt;p&gt;Linux distributions, or &lt;strong&gt;distros&lt;/strong&gt;, are various versions of the Linux operating system, each tailored for different use cases and user preferences. Some are designed for beginners, others for advanced users, and some focus on specific tasks like security, privacy, or development.&lt;/p&gt;
+&lt;h2 id=&#34;popular-linux-distributions&#34;&gt;Popular Linux Distributions&lt;/h2&gt;
+&lt;p&gt;!&lt;img src=&#34;/images/Pasted%20image%2020250121123333.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ubuntu&lt;/strong&gt;: A user-friendly distro that’s great for beginners and offers a vast software repository.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Debian&lt;/strong&gt;: Known for its stability and long release cycles, it&amp;rsquo;s the foundation for many other distros.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fedora&lt;/strong&gt;: Cutting-edge software with frequent updates, popular among developers.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Arch Linux&lt;/strong&gt;: A rolling-release distro for advanced users who want complete control over their system.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Linux Mint&lt;/strong&gt;: Based on Ubuntu, it’s an easy-to-use distro that’s perfect for people switching from Windows.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;why-choose-linux&#34;&gt;Why Choose Linux?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Open Source&lt;/strong&gt;: Most Linux distros are open-source, meaning you can freely modify and distribute them.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Customizability&lt;/strong&gt;: Linux offers deep customization, allowing users to tailor their system to their needs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Security&lt;/strong&gt;: Linux is known for its strong security features, making it a popular choice for servers and privacy-focused users.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Whether you’re a developer, a hobbyist, or just someone wanting a free and secure OS, there’s a Linux distro out there for you!&lt;/p&gt;</description>
+      <content>&lt;hr&gt;
+&lt;h1 id=&#34;exploring-linux-distributions&#34;&gt;Exploring Linux Distributions&lt;/h1&gt;
+&lt;p&gt;Linux distributions, or &lt;strong&gt;distros&lt;/strong&gt;, are various versions of the Linux operating system, each tailored for different use cases and user preferences. Some are designed for beginners, others for advanced users, and some focus on specific tasks like security, privacy, or development.&lt;/p&gt;
+&lt;h2 id=&#34;popular-linux-distributions&#34;&gt;Popular Linux Distributions&lt;/h2&gt;
+&lt;p&gt;!&lt;img src=&#34;/images/Pasted%20image%2020250121123333.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ubuntu&lt;/strong&gt;: A user-friendly distro that’s great for beginners and offers a vast software repository.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Debian&lt;/strong&gt;: Known for its stability and long release cycles, it&amp;rsquo;s the foundation for many other distros.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fedora&lt;/strong&gt;: Cutting-edge software with frequent updates, popular among developers.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Arch Linux&lt;/strong&gt;: A rolling-release distro for advanced users who want complete control over their system.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Linux Mint&lt;/strong&gt;: Based on Ubuntu, it’s an easy-to-use distro that’s perfect for people switching from Windows.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;why-choose-linux&#34;&gt;Why Choose Linux?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Open Source&lt;/strong&gt;: Most Linux distros are open-source, meaning you can freely modify and distribute them.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Customizability&lt;/strong&gt;: Linux offers deep customization, allowing users to tailor their system to their needs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Security&lt;/strong&gt;: Linux is known for its strong security features, making it a popular choice for servers and privacy-focused users.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Whether you’re a developer, a hobbyist, or just someone wanting a free and secure OS, there’s a Linux distro out there for you!&lt;/p&gt;
 </content>
     </item>
     

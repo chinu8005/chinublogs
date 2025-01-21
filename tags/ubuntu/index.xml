@@ -1,46 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chinmay&#39;s 2nd Brain</title>
-    <link>/</link>
-    <description>Recent content on Chinmay&#39;s 2nd Brain</description>
+    <title>Ubuntu on Chinmay&#39;s 2nd Brain</title>
+    <link>/tags/ubuntu/</link>
+    <description>Recent content in Ubuntu on Chinmay&#39;s 2nd Brain</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First Blog</title>
-      <link>/posts/first-blog/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/first-blog/</guid>
-      <description>&lt;hr&gt;
-&lt;h1 id=&#34;hello-world-&#34;&gt;Hello, World! 🌍&lt;/h1&gt;
-&lt;p&gt;I&amp;rsquo;m trying something new today by starting my very first blog! This is just a test post, but I&amp;rsquo;m excited to see where it goes. Stay tuned as I explore and share my thoughts on various topics. Thanks for reading!&lt;/p&gt;
-&lt;p&gt;Image 1 !&lt;img src=&#34;/images/Pasted%20image%2020250121122449.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;lets-connect&#34;&gt;Let&amp;rsquo;s Connect:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/chinu8005&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&amp;amp;logo=github&amp;amp;logoColor=white&#34; alt=&#34;GitHub&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/pchinmay/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&amp;amp;logo=linkedin&amp;amp;logoColor=white&#34; alt=&#34;LinkedIn&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;mailto:hello@chinmaypatil.net&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&amp;amp;logo=gmail&amp;amp;logoColor=white&#34; alt=&#34;Email&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;Thanks for visiting my blog! More content coming soon.&lt;/p&gt;</description>
-      <content>&lt;hr&gt;
-&lt;h1 id=&#34;hello-world-&#34;&gt;Hello, World! 🌍&lt;/h1&gt;
-&lt;p&gt;I&amp;rsquo;m trying something new today by starting my very first blog! This is just a test post, but I&amp;rsquo;m excited to see where it goes. Stay tuned as I explore and share my thoughts on various topics. Thanks for reading!&lt;/p&gt;
-&lt;p&gt;Image 1 !&lt;img src=&#34;/images/Pasted%20image%2020250121122449.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;lets-connect&#34;&gt;Let&amp;rsquo;s Connect:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/chinu8005&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&amp;amp;logo=github&amp;amp;logoColor=white&#34; alt=&#34;GitHub&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/pchinmay/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&amp;amp;logo=linkedin&amp;amp;logoColor=white&#34; alt=&#34;LinkedIn&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;mailto:hello@chinmaypatil.net&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&amp;amp;logo=gmail&amp;amp;logoColor=white&#34; alt=&#34;Email&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;Thanks for visiting my blog! More content coming soon.&lt;/p&gt;
-</content>
-    </item>
-    
+    <language>en</language><atom:link href="/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux Distros</title>
       <link>/posts/linux-distros/</link>
