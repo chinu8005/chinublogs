@@ -1,6 +1,6 @@
 ---
 Title: Linux Distros
-Date: 21-01-2025
+Date: 2025-01-21
 tags:
   - Linux
   - Kali
