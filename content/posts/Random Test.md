@@ -5,6 +5,7 @@ tags:
   - blog
   - hello
   - obsidian
+  - new
 categories: Simple
 ---
 # Lorem Ipsum
