@@ -7,6 +7,7 @@ tags:
   - obsidian
   - hugo
   - hello
+categories: Simple
 ---
 ---
 # Hello, World! 🌍

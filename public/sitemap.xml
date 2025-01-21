@@ -20,6 +20,8 @@
   </url><url>
     <loc>/posts/</loc>
   </url><url>
+    <loc>/categories/simple/</loc>
+  </url><url>
     <loc>/tags/</loc>
   </url>
 </urlset>
