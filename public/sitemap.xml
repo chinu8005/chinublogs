@@ -44,6 +44,9 @@
     <loc>/posts/randomtest/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/posts/random-test-2/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/categories/simple/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
@@ -58,5 +61,7 @@
     <loc>/tags/firstblog/</loc>
   </url><url>
     <loc>/tags/hugo/</loc>
+  </url><url>
+    <loc>/posts/random-test-3/</loc>
   </url>
 </urlset>
