@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tags/blog/</loc>
+  </url><url>
     <loc>/categories/</loc>
   </url><url>
     <loc>/</loc>
+  </url><url>
+    <loc>/posts/first-blog/</loc>
+  </url><url>
+    <loc>/tags/firstblog/</loc>
+  </url><url>
+    <loc>/tags/hello/</loc>
+  </url><url>
+    <loc>/tags/hugo/</loc>
+  </url><url>
+    <loc>/tags/obsidian/</loc>
+  </url><url>
+    <loc>/posts/</loc>
   </url><url>
     <loc>/tags/</loc>
   </url>
